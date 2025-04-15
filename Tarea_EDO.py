@@ -3,4 +3,5 @@
 # Cambio en la 2a Rama
 
 def main():
-    print("Aguante Beauchef furs")
+    # Esta función es el punto de entrada del programa
+    print("Hola, mundo!")  # Imprime un saludo en la consola
